@@ -64,8 +64,9 @@
     {
       "@id": "https://repolex.ai/r/asimov-platform/asimov.rs/commit/5e1d0d9bdcc78b04eafed400f699906e9887d5f2",
       "git:hexsha": "5e1d0d9bdcc78b04eafed400f699906e9887d5f2",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "24.0.0-dev.16"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "24.0.0-dev.16",
+      "repolex:parsedAt": "2026-04-03T02:17:24.775972+00:00"
     },
     {
       "@id": "https://repolex.ai/r/asimov-platform/asimov.rs/commit/9831b695ff2babc1ae60672372c241693123f565",
